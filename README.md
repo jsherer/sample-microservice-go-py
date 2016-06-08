@@ -1,1 +1,1 @@
-experiments in transformers in go
+Comparison between go and flask service
